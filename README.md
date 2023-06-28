@@ -1,2 +1,2 @@
-# .github-2
+# .github
 default configuration for @google repos
